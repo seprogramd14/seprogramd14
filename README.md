@@ -1,7 +1,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seprogramd14)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://solved.ac/profile/sepro">
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sepro)]
+  안녕
 <\a>
 
 <!--

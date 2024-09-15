@@ -1,6 +1,6 @@
-## 안녕하세요! 세상에 있는 모든 개발 지식을 탐하고 기록하는 AI 개발자 노승준입니다!
+## 👋 안녕하세요, 세상의 모든 개발 지식을 탐하고 기록하는 AI 개발자 노승준입니다!
 
-### Hi!, I'm Noh Seungjun, an AI Developer who covets and records all development knowledge in the world!
+### 👋 Hi!, I'm Noh Seungjun, an AI Developer who covets and records all development knowledge in the world!
 
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seprogramd14)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,8 +1,9 @@
 ## 👋 Hi!, I'm Noh Seungjun
 
-### AI Developer / Server Developer
+### AI Developer
 
 Developer who covets and records all development knowledge in the world
+I'm studying MLOps skills
 
 **Contact**
 

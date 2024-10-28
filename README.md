@@ -2,7 +2,7 @@
 
 ### AI Developer
 
-Developer who covets and records all development knowledge in the world
+Developer who covets and records all development knowledge in the world </br>
 I'm studying MLOps skills
 
 **Contact**
